@@ -14,14 +14,21 @@ The main structure of the project is:
 - `./Color_Analysis.ipynb`: Analysis on used car price and its relationship with colors
 - `./lux_classification.ipynb`: Model prediction notebook with feature importance on making a car luxury
 
-## Analysis Result
+## Analysis Result Plots
 <img src="./pictures/avgPrice_condition.png" style="zoom:50%;" />
-<img src="./pictures/Price_perMake.png" style="zoom:50%;" />
-<img src="./pictures/price_perMake_BMA.png" style="zoom:50%;" />
-<img src="./pictures/price_perMakeHTN.png" style="zoom:50%;" />
+<img src="./pictures/Price_perMake.png" style="zoom:0%;" />
+<img src="./pictures/price_perMake_BMA.png" style="zoom:20%;" />
+<img src="./pictures/price_perMakeHTN.png" style="zoom:20%;" />
 <img src="./pictures/heatmap_pricecolor.png" style="zoom:50%;" />
 <img src="./pictures/feature_importance_noPrice.png" style="zoom:50%;" />
 
 
 
 ## Referrence
+Paper EXPLORING THE FACTORS INFLUENCING THE CHOICE OF YOUNG GENERATION WHILE BUYING CARS:A FACTOR ANALYSIS APPROACH: https://www.ijcms.in/index.php/ijcms/article/view/268/257
+
+Random Forest Feature Importance Code: https://www.analyseup.com/learn-python-for-data-science/python-random-forest-feature-importance-plot.html
+
+News Website insight: https://www.mentalfloss.com/posts/best-car-color-resale-value
+
+Forbes News insight: https://www.forbes.com/sites/jimgorzelany/2022/06/16/heres-how-the-color-of-your-car-will-affect-its-resale-value/?sh=21aee2284415
