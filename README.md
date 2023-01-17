@@ -13,6 +13,8 @@ The main structure of the project is:
 - `./car_price_analysis.ipynb`: Analysis on used car price
 - `./Color_Analysis.ipynb`: Analysis on used car price and its relationship with colors
 - `./lux_classification.ipynb`: Model prediction notebook with feature importance on making a car luxury
+## Analysis Report
+[embed][http://example.com/file.pdf](https://github.com/yiyuancui/car-price-analysis/blob/main/project_NaiwenShi_YiyuanCui.pdf)[/embed]
 
 ## Analysis Result Plots
 <img src="./pictures/avgPrice_condition.png" style="zoom:50%;" />
